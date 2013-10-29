@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Dark Categories */
+
+#categories_container{
+	background:url(images/categories_bg.png) !important;
+	border:1px solid #4e4e4e !important;
+	border-right:0 !important;
+	border-left:0 !important;
+}
+
+#categories ul li a{
+	color:#fff !important;
+	text-shadow:1px 1px #000 !important;
+	border-right:1px solid #2d2d2d !important;
+}
+
+#categories .home_first_line{
+	border-left:1px solid #2d2d2d !important;
+}
+
+#categories .home_second_line{
+	border-left:1px solid #000000 !important;
+}
+
+#categories ul li{
+	border-right:1px solid #000000 !important;
+}
+
+#categories ul li a:hover{
+	background:url(images/categories_bg_hover.png) !important;
+	color:#ccc !important;
+}
+
+#categories .current-cat a{
+	background:url(images/categories_bg_hover.png) !important;
+}
+
+.secondnav-menu ul{
+	background:#000 !important;
+	border:1px solid #181818 !important;
+}
+
+.secondnav-menu li li a{
+	border-top:1px solid #181818 !important;
+}
+
+#categories ul li ul li a:hover{
+	background:none !important;
+}
+
+

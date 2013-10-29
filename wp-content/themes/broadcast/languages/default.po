@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BroadCast\n"
+"POT-Creation-Date: 2013-09-07 16:22+0800\n"
+"PO-Revision-Date: 2013-09-07 16:37+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:3
+msgid "404 Error"
+msgstr ""
+
+#: ../archive.php:5
+msgid "Archive for "
+msgstr ""
+
+#: ../archive.php:11
+msgid "Author Archive"
+msgstr "作者存档"
+
+#: ../archive.php:14
+msgid "Tag Archives:"
+msgstr "标签存档："
+
+#: ../archive.php:42 ../search.php:32 ../includes/categories_2.php:33
+msgid "Posted On:"
+msgstr "发表于："
+
+#: ../archive.php:44 ../search.php:34 ../includes/blog_posts.php:33
+#: ../includes/categories.php:45 ../includes/categories_2.php:35
+#: ../includes/featured.php:69 ../includes/featured_long.php:72
+#: ../includes/featured_post.php:43
+msgid " [...]"
+msgstr ""
+
+#: ../comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章受密码保护，请输入密码后浏览评论。"
+
+#: ../comments.php:22
+#, php-format
+msgid "(1) Reader Comment"
+msgid_plural "(%1$s) 访客评论 "
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:38
+msgid "<span class=\"meta-nav\">&laquo;</span> Previous"
+msgstr "<span class=\"meta-nav\">&laquo;</span> 上一篇"
+
+#: ../comments.php:39
+msgid "Newer <span class=\"meta-nav\">&raquo;</span>"
+msgstr "下一篇 <span class=\"meta-nav\">&raquo;</span>"
+
+#: ../comments.php:51
+msgid "评论关闭"
+msgstr ""
+
+#: ../comments.php:58
+msgid "留言"
+msgstr ""
+
+#: ../footer.php:45
+msgid "2011 Weidea.Net. All Rights Reserved."
+msgstr "2013 CSCry.Com. All Rights Reserved. "
+
+#: ../footer.php:47
+msgid ""
+"Powered by <a href=\"http://www.weidea.net\" target=\"_blank\">Weidea.Net</"
+"a>. Designed by"
+msgstr "Powered by <a href=\"http://www.cscry.com\">CSCry.Com</a>. Designed by"
+
+#: ../functions.php:44
+msgid "Top Menu"
+msgstr "顶层菜单"
+
+#: ../functions.php:45
+msgid "Second Menu"
+msgstr "二级菜单"
+
+#: ../functions.php:83
+msgid "Berries"
+msgstr ""
+
+#: ../functions.php:89
+msgid "Cherry Blossoms"
+msgstr ""
+
+#: ../functions.php:95
+msgid "Concave"
+msgstr "凹面"
+
+#: ../functions.php:101
+msgid "Fern"
+msgstr ""
+
+#: ../functions.php:107
+msgid "Forest Floor"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Inkwell"
+msgstr ""
+
+#: ../functions.php:119
+msgid "Path"
+msgstr ""
+
+#: ../functions.php:125
+msgid "Sunset"
+msgstr ""
+
+#: ../functions.php:243
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论已提交审核。"
+
+#: ../functions.php:248
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:250
+msgid "<span class=\"date\">"
+msgstr ""
+
+#: ../functions.php:250
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:250
+msgid " - (Edit)"
+msgstr "- (编辑)"
+
+#: ../functions.php:250
+msgid "</span><!-- #comment date -->"
+msgstr ""
+
+#: ../functions.php:269
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:269
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: ../functions.php:288
+msgid "边栏一"
+msgstr ""
+
+#: ../functions.php:290
+msgid "第一个边栏区域"
+msgstr ""
+
+#: ../functions.php:299
+msgid "边栏二"
+msgstr ""
+
+#: ../functions.php:301
+msgid "第二个边栏区域"
+msgstr ""
+
+#: ../functions.php:310
+msgid "侧栏左列区域"
+msgstr ""
+
+#: ../functions.php:312
+msgid "左侧侧边栏区域"
+msgstr ""
+
+#: ../functions.php:321
+msgid "侧栏右列区域"
+msgstr ""
+
+#: ../functions.php:323
+msgid "右侧侧边栏区域"
+msgstr ""
+
+#: ../functions.php:333 ../functions.php:335
+msgid "第一个页脚小工具区域"
+msgstr ""
+
+#: ../functions.php:344 ../functions.php:346
+msgid "第二个页脚小工具区域"
+msgstr ""
+
+#: ../functions.php:355 ../functions.php:357
+msgid "第三个页脚小工具区域"
+msgstr ""
+
+#: ../functions.php:366 ../functions.php:368
+msgid "第四个页脚小工具区域"
+msgstr ""
+
+#: ../functions.php:402
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+"span> %3$s"
+msgstr ""
+"<span class=\"%1$s\">发表于</span> %2$s <span class=\"meta-sep\">作者</span> "
+"%3$s"
+
+#: ../functions.php:428 ../functions.php:430
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: ../header.php:15
+#, php-format
+msgid "Page %s"
+msgstr "页码 %s"
+
+#: ../header.php:115
+msgid "Follow our feed"
+msgstr "订阅我们"
+
+#: ../header.php:115
+msgid "Subscribe to rss"
+msgstr "订阅RSS"
+
+#: ../header.php:153
+msgid "Home"
+msgstr "首页"
+
+#: ../search.php:4
+msgid "Search Results "
+msgstr "搜索结果"
+
+#: ../search.php:4
+#, php-format
+msgid "'%s'"
+msgstr ""
+
+#: ../single.php:11
+msgid "Written By: "
+msgstr "作者："
+
+#: ../single.php:11 ../single.php:13
+msgid "|"
+msgstr ""
+
+#: ../single.php:15
+msgid "Posted In: "
+msgstr "发表于："
+
+#: ../single.php:45
+msgid "分享这篇文章"
+msgstr ""
+
+#: ../single.php:79
+msgid "最近文章"
+msgstr ""
+
+#: ../single.php:118
+msgid "关于作者"
+msgstr ""
+
+#: ../template-archives.php:25
+msgid "comments"
+msgstr "评论"
+
+#: ../template-contact.php:58
+msgid "If you are the admin of this site please setup your email."
+msgstr "如果您是该网站的管理员，请设置您的邮箱。"
+
+#: ../template-contact.php:64
+msgid "Name:"
+msgstr "名字："
+
+#: ../template-contact.php:68
+msgid "Email:"
+msgstr ""
+
+#: ../template-contact.php:74
+msgid "Message:"
+msgstr "消息："
+
+#: ../template-contact.php:78
+msgid "5 + 2 = "
+msgstr ""
+
+#: ../template-contact.php:82
+msgid "Send Message"
+msgstr "发送消息"
+
+#: ../template-contact.php:86
+msgid "Your email has been sent."
+msgstr "您的邮件已发送。"
+
+#: ../includes/blog_posts.php:3
+msgid "Latest News"
+msgstr "最新新闻"
+
+#: ../includes/blog_posts.php:31 ../includes/categories.php:43
+#: ../includes/featured_long.php:70
+msgid "(0) comments"
+msgstr "(0) 条评论"
+
+#: ../includes/blog_posts.php:31 ../includes/categories.php:43
+#: ../includes/featured_long.php:70
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: ../includes/blog_posts.php:31 ../includes/categories.php:43
+#: ../includes/featured_long.php:70
+msgid "% Comments"
+msgstr "% 条评论"
+
+#: ../includes/blog_posts.php:35 ../includes/featured_long.php:75
+msgid "阅读更多"
+msgstr ""
+
+#: ../includes/other_categories.php:7
+msgid "其他类别"
+msgstr ""
+
+#: ../includes/other_news.php:7
+msgid "Other News"
+msgstr "其他新闻"
+
+#: ../includes/spotlight.php:24
+msgid "prev"
+msgstr "上一个"
+
+#: ../includes/spotlight.php:25
+msgid "next"
+msgstr "下一个"
+
+#: ../scripts/functions/display_functions.php:245
+msgid "Name"
+msgstr "名字"
+
+#: ../scripts/functions/display_functions.php:246
+#: ../scripts/functions/display_functions.php:255
+#: ../scripts/functions/display_functions.php:273
+msgid "(required)"
+msgstr "(必填)"
+
+#: ../scripts/functions/display_functions.php:254
+msgid "Email"
+msgstr ""
+
+#: ../scripts/functions/display_functions.php:261
+msgid "Website"
+msgstr "主页"
+
+#: ../scripts/functions/display_functions.php:273
+msgid "Comment"
+msgstr "评论"
+
+#: ../scripts/functions/pages/featured_posts.php:34
+msgid "Select Category"
+msgstr "选择类别"
+
+#: ../scripts/functions/widgets/125x125_widget.php:33
+msgid "125 X 125像素 广告小工具."
+msgstr ""
+
+#: ../scripts/functions/widgets/125x125_widget.php:39
+msgid "LT - 125 X 125广告"
+msgstr ""
+
+#: ../scripts/functions/widgets/125x125_widget.php:61
+#: ../scripts/functions/widgets/video_widget.php:58
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../scripts/functions/widgets/125x125_widget.php:80
+msgid "Image Url:"
+msgstr "图片Url："
+
+#: ../scripts/functions/widgets/125x125_widget.php:85
+msgid "Image Link Address:"
+msgstr "图片地址："
+
+#: ../scripts/functions/widgets/300x250_widget.php:33
+msgid "300 x 250像素 广告小工具"
+msgstr ""
+
+#: ../scripts/functions/widgets/300x250_widget.php:39
+msgid "LT - 300 X 250广告"
+msgstr ""
+
+#: ../scripts/functions/widgets/300x250_widget.php:95
+msgid "Title"
+msgstr "标题"
+
+#: ../scripts/functions/widgets/300x250_widget.php:97
+msgid "Ad Code:"
+msgstr "广告代码："
+
+#: ../scripts/functions/widgets/300x250_widget.php:100
+msgid "Image Url: "
+msgstr "图片Url："
+
+#: ../scripts/functions/widgets/300x250_widget.php:104
+msgid "Image Link Address"
+msgstr "图片连接地址"
+
+#: ../scripts/functions/widgets/flickr_widget.php:33
+msgid "Flickr 相册小工具."
+msgstr ""
+
+#: ../scripts/functions/widgets/flickr_widget.php:39
+msgid "LT - 相册"
+msgstr ""
+
+#: ../scripts/functions/widgets/flickr_widget.php:92
+#: ../scripts/functions/widgets/popular_news_widget.php:109
+#: ../scripts/functions/widgets/sidebar_news_widget.php:103
+#: ../scripts/functions/widgets/social_icons.php:92
+#: ../scripts/functions/widgets/video_widget.php:77
+msgid "Title:"
+msgstr "标题："
+
+#: ../scripts/functions/widgets/popular_news_widget.php:33
+msgid "显示流行文章在侧边栏"
+msgstr ""
+
+#: ../scripts/functions/widgets/popular_news_widget.php:39
+msgid "LT - 显示流行文章"
+msgstr ""
+
+#: ../scripts/functions/widgets/popular_news_widget.php:112
+#: ../scripts/functions/widgets/sidebar_news_widget.php:106
+msgid "How many entries to display?"
+msgstr "显示多少篇文章？"
+
+#: ../scripts/functions/widgets/popular_news_widget.php:115
+#: ../scripts/functions/widgets/sidebar_news_widget.php:109
+msgid ""
+"Display Certain Categories? Place the category id and seperate with a comma "
+"(e.g. - 1, 22, 35)"
+msgstr "显示哪些类别？填写类别ID，并以逗号分隔 (e.g. - 1, 22, 35)"
+
+#: ../scripts/functions/widgets/sidebar_news_widget.php:33
+msgid "显示最近新闻"
+msgstr ""
+
+#: ../scripts/functions/widgets/sidebar_news_widget.php:39
+msgid "LT - 显示最近新闻"
+msgstr ""
+
+#: ../scripts/functions/widgets/sidebar_tabs.php:33
+msgid "边栏索引小工具"
+msgstr ""
+
+#: ../scripts/functions/widgets/sidebar_tabs.php:39
+msgid "LT - 边栏索引"
+msgstr ""
+
+#: ../scripts/functions/widgets/sidebar_tabs.php:64
+msgid "流行"
+msgstr ""
+
+#: ../scripts/functions/widgets/sidebar_tabs.php:66
+msgid "最近"
+msgstr ""
+
+#: ../scripts/functions/widgets/sidebar_tabs.php:68
+msgid "评论"
+msgstr ""
+
+#: ../scripts/functions/widgets/sidebar_tabs.php:70
+msgid "标签"
+msgstr ""
+
+#: ../scripts/functions/widgets/social_icons.php:33
+msgid "链接到你的社交网络"
+msgstr ""
+
+#: ../scripts/functions/widgets/social_icons.php:39
+msgid "LT - 社交网络"
+msgstr ""
+
+#: ../scripts/functions/widgets/social_icons.php:63
+#: ../scripts/functions/widgets/social_icons.php:97
+msgid "Twitter"
+msgstr ""
+
+#: ../scripts/functions/widgets/social_icons.php:65
+#: ../scripts/functions/widgets/social_icons.php:99
+msgid "Facebook"
+msgstr ""
+
+#: ../scripts/functions/widgets/social_icons.php:67
+msgid "RSS Feed"
+msgstr "RSS 订阅"
+
+#: ../scripts/functions/widgets/social_icons.php:69
+msgid "Vimeo"
+msgstr "视频媒体"
+
+#: ../scripts/functions/widgets/social_icons.php:101
+msgid "Vimeo (If empty will not show)"
+msgstr "视频媒体 (空将不显示)"
+
+#: ../scripts/functions/widgets/video_widget.php:33
+msgid "嵌入视频到侧边栏."
+msgstr ""
+
+#: ../scripts/functions/widgets/video_widget.php:39
+msgid "LT - 嵌入视频"
+msgstr ""
+
+#: ../scripts/functions/widgets/video_widget.php:82
+msgid "Video Embed Code:"
+msgstr "嵌入视频代码："

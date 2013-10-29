@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Bright Featured Slider Short */
+
+#featured{
+	background:url(images/slider_bg.png) !important;
+}
+
+#featured img{
+	border:1px solid #b4b4b4 !important;
+}
+#featured ul.ui-tabs-nav li.ui-tabs-selected a img{
+	border:1px solid #000 !important;
+}
+#featured .ui-tabs-panel .info{
+	border:1px solid #b4b4b4 !important;
+}

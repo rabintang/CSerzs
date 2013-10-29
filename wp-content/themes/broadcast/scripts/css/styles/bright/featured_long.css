@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Bright Featured Slider */
+
+#featured{
+	background:url(images/slider_long_bg.png) !important;
+}
+
+#featured .info_container h1 a{
+	color:#343434 !important;
+	text-shadow:none !important;
+}
+
+#featured .info_container .date{
+	color:#b5b5b5 !important; 
+}
+
+#featured .info_container .date a{
+	color:#b5b5b5 !important;
+}
+
+#featured .info_container p{
+	color:#656565 !important;
+}
+
+#featured img{
+	border:1px solid #b4b4b4 !important;
+}
+
+#featured ul.ui-tabs-nav li.ui-tabs-selected a img{
+	border:1px solid #000 !important;
+}

@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Bright Footer */
+
+#footer_holder{
+background: #f7f7f7 !important;
+border-top: 1px solid #EAEAEA;
+}
+
+#footer h5{
+	background: #f7f7f7 !important;
+}
+
+.latest_news h3 a{
+	color:#343434 !important;
+}
+
+#footer p{
+	color:#606060 !important;
+}
+
+#footer .socialtext{
+	color:#343434 !important;
+}
+
+#footer ul#social_icons li{
+	border-bottom:1px solid #dfdfdf !important;
+}
+
+#footer ul li a{
+	color:#343434 !important;
+}
+
+#footer ul li{
+	border-bottom:1px solid #dfdfdf !important;
+}
+
+#footer a:hover{
+	color:#000 !important;
+}
+
+#footer ul#social_icons li a:hover{
+	color:#000;
+}
+
+.latest_news img{
+	background:#e5e5e5 !important;
+	border:1px solid #b1b1b1 !important;
+}
+
+#copyright_holder{
+	background:#fdfdfd !important;
+}
+.copyright{
+color: #606060 !important;
+}
+
+.copyright a{
+	color: #343434 !important;
+}
+
+.copyright a:hover{
+	color:#000 !important;
+}
